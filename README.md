@@ -33,6 +33,6 @@ Markdown is simple, fast, and compatible with many platforms such as GitHub, Obs
 
 ## License
 
-This repository is licensed under the terms of the [Apache License 2.0](LICENSE).
+This repository is licensed under the terms of the [Apache License 2.0](LICENSE)
 
 > Made with '\u{2665}' (♥) by Jesús Domínguez [@bluefeatherdev](https://github.com/bluefeatherdev)
