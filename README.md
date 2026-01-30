@@ -4,9 +4,7 @@
 
 Repository of notes, examples, and useful resources about **Markdown**, to strengthen my knowledge of Markdown and apply it in technical documentation such as `README.md`, GitHub projects, Obsidian, and more.
 
-![](./images/header_hello_markdown.jpg)
-
-> This repository is licensed under the terms of the [Apache License 2.0](LICENSE).
+![header_hello_markdown](https://github.com/user-attachments/assets/eea09b11-fdb3-4b6f-92a7-fff3f3597797)
 
 ## Learning sources
 
@@ -32,5 +30,7 @@ Markdown is simple, fast, and compatible with many platforms such as GitHub, Obs
 
 - Apply what I’ve learned in real projects
 - Improve my documentation skills as a developer
+
+> This repository is licensed under the terms of the [Apache License 2.0](LICENSE).
 
 > Made with '\u{2665}' (♥) by Jesús Domínguez [@bluefeatherdev](https://github.com/bluefeatherdev)
