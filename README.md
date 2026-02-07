@@ -1,12 +1,14 @@
 # Hello, Markdown!
 
-![Static Badge](https://img.shields.io/badge/markup-markdown-000000?style=for-the-badge&logo=markdown&logoColor=white&labelColor=101010)
+![Static Badge](https://img.shields.io/badge/markdown-documentation-1C2024?style=for-the-badge&logo=markdown&logoColor=white&labelColor=101010)
 
 Repository of notes, examples, and useful resources about **Markdown**, to strengthen my knowledge of Markdown and apply it in technical documentation such as `README.md`, GitHub projects, Obsidian, and more.
 
 ![header_hello_markdown](https://github.com/user-attachments/assets/eea09b11-fdb3-4b6f-92a7-fff3f3597797)
 
-## Learning sources
+## Repository Content
+
+### Learning Sources
 
 Here I collect the main sources I am using to learn Markdown:
 
@@ -15,21 +17,13 @@ Here I collect the main sources I am using to learn Markdown:
 - [Markdown Guide (complete and clear)](https://www.markdownguide.org/)
 - [GitHub Writing Guide](https://docs.github.com/es/get-started/writing-on-github)
 
-## Why learn Markdown
-
-Markdown is simple, fast, and compatible with many platforms such as GitHub, Obsidian, VSCode, and blogs. Learning it well allows you to:
-
-- Write clear and elegant documentation
-
-- Keep notes organized and portable
-- Link ideas and create your own knowledge system
-
-## Repository goal
+## Repository Goals
 
 - Learn Markdown from basics to advanced
 
 - Apply what I’ve learned in real projects
 - Improve my documentation skills as a developer
+- Learn writing clear and elegant documentation
 
 ## License
 
