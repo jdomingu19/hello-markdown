@@ -4,7 +4,7 @@
 
 Repository of notes, examples, and useful resources about **Markdown**, to strengthen my knowledge of Markdown and apply it in technical documentation such as `README.md`, GitHub projects, Obsidian, and more.
 
-![header_hello_markdown](https://github.com/user-attachments/assets/eea09b11-fdb3-4b6f-92a7-fff3f3597797)
+![header_hello_markdown](https://github.com/user-attachments/assets/195a8b26-36eb-441a-9623-61483ad603fc)
 
 ## Repository Content
 
