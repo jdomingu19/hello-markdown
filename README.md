@@ -1,14 +1,12 @@
 # Hello, Markdown!
 
-![Static Badge](https://img.shields.io/badge/markdown-documentation-1C2024?style=for-the-badge&logo=markdown&logoColor=white&labelColor=101010)
-
 Repository of notes, examples, and useful resources about **Markdown**, to strengthen my knowledge of Markdown and apply it in technical documentation such as `README.md`, GitHub projects, Obsidian, and more.
 
 ![header_hello_markdown](https://github.com/user-attachments/assets/195a8b26-36eb-441a-9623-61483ad603fc)
 
-## Repository Content
+## 🗂️ Repository Content
 
-### Learning Sources
+### 🔗 Learning Sources
 
 Here I collect the main sources I am using to learn Markdown:
 
@@ -17,7 +15,7 @@ Here I collect the main sources I am using to learn Markdown:
 - [Markdown Guide (complete and clear)](https://www.markdownguide.org/)
 - [GitHub Writing Guide](https://docs.github.com/es/get-started/writing-on-github)
 
-## Repository Goals
+## 🎯 Repository Goals
 
 - Learn Markdown from basics to advanced
 
@@ -25,8 +23,10 @@ Here I collect the main sources I am using to learn Markdown:
 - Improve my documentation skills as a developer
 - Learn writing clear and elegant documentation
 
-## License
+## ⚖️ License
 
-This repository is licensed under the terms of the [Apache License 2.0](LICENSE)
+This repository is licensed under the terms of the [Apache License 2.0](LICENSE). The license grants permission to use, modify, and distribute the code with proper attribution, while ensuring that improvements and extensions remain open and accessible to the community.
 
-> Made with '\u{2665}' (♥) by Jesús Domínguez [@jdomingu19](https://github.com/jdomingu19)
+##
+
+> Built with '\u{2665}' (♥) by Jesús Domínguez [@jdomingu19](https://github.com/jdomingu19/)
